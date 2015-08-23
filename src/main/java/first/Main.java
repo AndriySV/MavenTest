@@ -9,7 +9,7 @@ import java.io.PrintWriter;
 
 public class Main extends HttpServlet {
 
-
+// Com
     public void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         // Set response content type
